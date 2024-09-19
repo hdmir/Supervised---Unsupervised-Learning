@@ -30,7 +30,9 @@ Proje Açıklaması
         Gözetimli Öğrenme (Supervised Learning):
             Model: Lojistik Regresyon, Random Forest
             Performans Metrikleri: Doğruluk Skoru, Confusion Matrix, F1 Skoru
-            Sonuç:                      
+            Sonuç: 
+   ![Ekran görüntüsü 2024-09-19 231248](https://github.com/user-attachments/assets/8fcd671f-7189-400a-a723-4a2c36fab5d5)
+
                                   Doğruluk skoru
                         Algorithm	                Accuracy(Doğruluk)
                   0	Logistic Regression	          0.993951
