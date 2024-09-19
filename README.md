@@ -52,7 +52,7 @@ Proje Açıklaması
                 Silhouette Skoru hesaplanamadı.
                 Inertia: 5908296.710507568 (küme sayısı 7 seçilerek)
             Kümeleme Sonuçları:
-            ![Ekran görüntüsü 2024-09-19 231301](https://github.com/user-attachments/assets/b44fb935-7163-4b86-96ff-57dca8431b25)
+  ![Ekran görüntüsü 2024-09-19 231301](https://github.com/user-attachments/assets/b44fb935-7163-4b86-96ff-57dca8431b25)
 
             
   
